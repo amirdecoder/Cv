@@ -18,7 +18,7 @@ https://www.futurelearn.com/certificates/brzgrv7
 <br>
 
 <h3>
-  Web Analytics :
+  CompTIA Cloud+ Basic :
 </h3>
   
 ___
